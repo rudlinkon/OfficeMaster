@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mixitup</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <style>
+        img{
+            max-width: 100%;
+            height: auto;
+        }
+        .filter_trigger {
+            list-style: none;
+            padding: 20px 0;
+        }
+        .filter_trigger li{
+            display: inline-block;
+            padding: 5px 20px;
+            background: #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 5px;
+        }
+        .filter_trigger li.active{
+            background: #999;
+            color: #fff;
+        }
+        .all_filter_item .mix{
+            display: none;
+        }
+        .single_item{
+            position: relative;
+            margin-bottom: 30px;
+        }
+        .single_item h2{
+            position: absolute;
+            top: 50%;
+            left: 0;
+            transform: translateY(-50%);
+            color: #fff;
+            width: 100%;
+            text-align: center;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <section class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="filter_trigger">
+                    <li class="filter" data-filter="all">All</li>
+                    <li class="filter" data-filter=".red">Red</li>
+                    <li class="filter" data-filter=".green">Green</li>
+                    <li class="filter" data-filter=".blue">Blue</li>
+                </ul>
+            </div>
+        </div>
+        <div class="all_filter_item row">
+            <div class="mix single_item col-md-3 red">
+                <img src="red.jpg" alt="">
+                <h2>your red</h2>
+            </div>
+            <div class="mix single_item col-md-3 green">
+                <img src="green.jpg" alt="">
+                <h2>your green</h2>
+            </div>
+            <div class="mix single_item col-md-3 blue">
+                <img src="blue.jpg" alt="">
+                <h2>your blue</h2>
+            </div>
+            <div class="mix single_item col-md-3 red">
+                <img src="red.jpg" alt="">
+                <h2>your red</h2>
+            </div>
+            <div class="mix single_item col-md-3 green">
+                <img src="green.jpg" alt="">
+                <h2>your green</h2>
+            </div>
+            <div class="mix single_item col-md-3 blue">
+                <img src="blue.jpg" alt="">
+                <h2>your blue</h2>
+            </div>
+        </div>
+    </section>
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="jquery.mixitup.js"></script>
+    <script>
+        jQuery('.all_filter_item').mixItUp();
+    </script>
+</body>
+</html>

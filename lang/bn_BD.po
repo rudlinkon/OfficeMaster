@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ebit\n"
+"POT-Creation-Date: 2015-11-29 12:57+0600\n"
+"PO-Revision-Date: 2015-11-29 12:58+0600\n"
+"Last-Translator: \n"
+"Language-Team: ebit <ebit@test.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/CMB2/example-functions.php:82 inc/CMB2/tests/test-cmb-field.php:244
+msgid "Test Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:93 inc/CMB2/example-functions.php:380
+msgid "Test Text"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:94 inc/CMB2/example-functions.php:106
+#: inc/CMB2/example-functions.php:114 inc/CMB2/example-functions.php:122
+#: inc/CMB2/example-functions.php:131 inc/CMB2/example-functions.php:139
+#: inc/CMB2/example-functions.php:153 inc/CMB2/example-functions.php:160
+#: inc/CMB2/example-functions.php:168 inc/CMB2/example-functions.php:185
+#: inc/CMB2/example-functions.php:194 inc/CMB2/example-functions.php:202
+#: inc/CMB2/example-functions.php:209 inc/CMB2/example-functions.php:216
+#: inc/CMB2/example-functions.php:230 inc/CMB2/example-functions.php:243
+#: inc/CMB2/example-functions.php:256 inc/CMB2/example-functions.php:268
+#: inc/CMB2/example-functions.php:277 inc/CMB2/example-functions.php:285
+#: inc/CMB2/example-functions.php:294 inc/CMB2/example-functions.php:301
+#: inc/CMB2/example-functions.php:315 inc/CMB2/example-functions.php:381
+#: inc/CMB2/example-functions.php:476 inc/CMB2/example-functions.php:484
+#: inc/CMB2/example-functions.php:491 inc/CMB2/example-functions.php:498
+#: inc/CMB2/example-functions.php:505 inc/CMB2/example-functions.php:512
+#: inc/CMB2/example-functions.php:519 inc/CMB2/example-functions.php:557
+#: inc/CMB2/tests/test-cmb-field.php:256
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:105
+msgid "Test Text Small"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:113
+msgid "Test Text Medium"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:121
+msgid "Website URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:130
+msgid "Test Text Email"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:138
+msgid "Test Time"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:145 inc/CMB2/example-functions.php:146
+msgid "Time zone"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:152
+msgid "Test Date Picker"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:201
+msgid "Test Text Area"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:223
+msgid "This is a title description"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:229
+msgid "Test Select"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:235 inc/CMB2/example-functions.php:248
+#: inc/CMB2/example-functions.php:260
+msgid "Option One"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:236 inc/CMB2/example-functions.php:249
+#: inc/CMB2/example-functions.php:261
+msgid "Option Two"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:237 inc/CMB2/example-functions.php:250
+#: inc/CMB2/example-functions.php:262
+msgid "Option Three"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:242
+msgid "Test Radio inline"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:255
+msgid "Test Radio"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:293
+msgid "Test Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:300 inc/CMB2/tests/test-cmb-field.php:255
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:306 inc/CMB2/tests/test-cmb-field.php:261
+msgid "Check One"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:307 inc/CMB2/tests/test-cmb-field.php:262
+msgid "Check Two"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:308 inc/CMB2/tests/test-cmb-field.php:263
+msgid "Check Three"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:322
+msgid "Test Image"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:329
+msgid "Multiple Files"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:337
+msgid "oEmbed"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:371
+msgid "About Page Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:412
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:413
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:414
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:427
+msgid "Entry Title"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:434 inc/cmb2-custom-field.php:35
+msgid "Description"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:435
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:441
+msgid "Entry Image"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:447
+msgid "Image Caption"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:468
+msgid "User Profile Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:475
+msgid "Extra Info"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:483
+msgid "Avatar"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:490
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:497
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:504
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:511
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:518
+msgid "User Field"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:541
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:556
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:135 inc/CMB2/tests/test-cmb-types.php:811
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:139 inc/CMB2/tests/test-cmb-types.php:812
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:978 inc/CMB2/includes/CMB2_Field.php:982
+#: inc/CMB2/tests/test-cmb-field.php:216
+msgid "None"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:86 inc/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:118 inc/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:137 inc/CMB2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:138 inc/CMB2/includes/CMB2_Types.php:357
+#: inc/CMB2/includes/CMB2_Types.php:1023 inc/CMB2/tests/test-cmb-types.php:155
+#: inc/CMB2/tests/test-cmb-types.php:163 inc/CMB2/tests/test-cmb-types.php:760
+#: inc/CMB2/tests/test-cmb-types.php:785
+msgid "Remove"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:139 inc/CMB2/includes/CMB2_Types.php:1018
+#: inc/CMB2/tests/test-cmb-types.php:761 inc/CMB2/tests/test-cmb-types.php:786
+msgid "File:"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:140 inc/CMB2/includes/CMB2_Types.php:1021
+#: inc/CMB2/tests/test-cmb-types.php:759 inc/CMB2/tests/test-cmb-types.php:784
+msgid "Download"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:749 inc/CMB2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:864 inc/CMB2/tests/test-cmb-types.php:736
+#: inc/CMB2/tests/test-cmb-types.php:762
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:926 inc/CMB2/tests/test-cmb-types.php:772
+#: inc/CMB2/tests/test-cmb-types.php:787
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:19
+msgid "Service Metabox"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:27
+msgid "Service Icon"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:28
+msgid "Write here your service icon's fontawesome name"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:36
+msgid "Write here your service description"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:43
+msgid "Slider Metabox"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:51
+msgid "Slider Caption"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:52
+msgid "Write here your slider caption"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:59
+msgid "Special Metabox"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:71
+msgid "Special Meta Caption"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:72
+msgid "Write here your special caption"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:79
+msgid "Team Metabox"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:87
+msgid "Team Member Designation"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:88
+msgid "Write here your Team Member Designation"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:94
+msgid "BlockQuote Color"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:95
+msgid "Write here your BlockQuote Color Class name"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:101
+msgid "Animation Type"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:102
+msgid "Write here your animation class name"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:109
+msgid "Post Metabox"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:117
+msgid "Post Icon"
+msgstr ""
+
+#: inc/cmb2-custom-field.php:118
+msgid "Write here your Post icon class name"
+msgstr ""
+
+#: index.php:80
+msgid "Sign in"
+msgstr "ভাইজান সাইন ইন করেন"
