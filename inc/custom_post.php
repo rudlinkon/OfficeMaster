@@ -93,5 +93,20 @@ function office_master_custom_post(){
             'show_admin_column' => true
         )
     );
+    
+      register_post_type('tab',array(
+        'labels'=>array(
+            'name'=>'Tab',
+            'menu_name'=>'Tab Menu',
+            'all_items'=>'All Tab Item',
+            'add_new'=>'Add New Tab Item',
+            'add_new_item'=>'Add new Tab Item'
+        ),
+        'public'=>true,
+        'supports'=>array(
+            'title', 'editor', 'revisions', 'page-attributes', 'thumbnail'
+        )
+    ));
+    
 }
 add_action('init', 'office_master_custom_post');

@@ -111,3 +111,10 @@ img{
 .filtering{
     padding: 150px 0;
 }
+.single_tab_item {
+    display: inline-block;
+    width: 20%;
+}
+.tab_area{
+    padding: 150px 0;
+}

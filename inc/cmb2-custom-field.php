@@ -165,4 +165,19 @@ function office_master_cmb2(){
         'repeatable' => true
     ) );
     
+    $tab_post = new_cmb2_box( array(
+        'id'            => 'tab_post',
+        'title'         => __( 'Tab Metabox', 'office_master' ),
+        'object_types'  => array( 'tab' ), // Post type
+        'context'       => 'normal',
+        'priority'      => 'high',
+        'show_names'    => true // Show field names on the left
+    ) );
+    
+    $tab_post->add_field( array(
+        'name'       => __( 'Tab Name', 'office_master' ),
+        'id'         => $pref.'tab_name',
+        'type'       => 'text'
+    ) );
+    
 }
