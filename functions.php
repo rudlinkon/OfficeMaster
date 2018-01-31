@@ -1,5 +1,4 @@
 <?php
-
 include_once('inc/after_theme_setup.php');
 include_once('inc/enque_scripts.php');
 include_once('inc/tinyMCE.php');
